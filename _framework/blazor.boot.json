@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CountdownTimer",
   "resources": {
-    "hash": "sha256-PBwt9kxTS/QEcfgye2WPgDnVyAYZmduEJCCaHP9F8qs=",
+    "hash": "sha256-M35T/2alJS7yn9poYuwacUBABcUQ8zcT1HS72/um6XI=",
     "jsModuleNative": {
       "dotnet.native.8.0.6.zthwkftwwa.js": "sha256-YU6M9+jtDVnB8/wtrgIndOstzNh778Ls8g9XnbjorSk="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "CountdownTimer.wasm": "sha256-iP9YqQ12ZA7NcQCb3nPx6OjFk71kXnngsJLWX2fISm4=",
+      "CountdownTimer.wasm": "sha256-xYBTsLbFZ7vi6taOlx3u6mhUdBAcSCy23mXTcLKGXj4=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-Gyl5qkFya2GzhjV9l4SAvUwA6y+C3iVs9pCVN3dp16o=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-KbWsw2gy54hrXdvGIe+CCubTx62VhnmWxIDZ84IuVQw=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-50Ivk/dT0E1UwSyz5475jCuRSCLuSQEv3V2OWpi3hEA=",
