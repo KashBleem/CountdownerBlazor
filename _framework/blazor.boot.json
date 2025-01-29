@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CountdownTimer",
   "resources": {
-    "hash": "sha256-UD9e5gektU5y+12s7jY1399oN93JPPcQbDMhviU/L3o=",
+    "hash": "sha256-9LJeKik+7UBArnGIlvBYNfATxCzwtLD0wo5kKoX92z4=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.fq9e7qcqkr.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "CountdownTimer.wasm": "sha256-nHbcVH4glbcnEdeEWSrchU+KjA/uUm9vnhU5mfbEkMQ=",
+      "CountdownTimer.wasm": "sha256-qDAKiYWRHJO1DHHcKJl6r8i4UY1atFpJPoeOlQezr8I=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-HjDGGminMNwfrY2e3hrFGK3MVX+3Re7Yr5oRzG/se6A=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-4tmx4uC98MyKjCuM9ErBZwXpqkLx4fwVZfJQIv+Y0+A=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-LYJGTqka6p2RaQhwjm0nbX5muzjO6rM8oTE9uoUmGBs=",
@@ -42,10 +42,10 @@
       "System.Net.Http.Json.wasm": "sha256-3bW8kRcdjuU6qJ4KfJtKvffShSQtAgTeL7ouij6KeBQ=",
       "System.Net.Http.wasm": "sha256-n1cYCAyFoWZS8wr1yI5Z90q9bp9dU85yc8NA/5GdJ1o=",
       "System.Net.Primitives.wasm": "sha256-j3A7SN1Wpd95yFTPPq1YD+PxIDYicARL6W3t8sMPhFI=",
-      "System.Private.CoreLib.wasm": "sha256-SrQg0DOBdV3o1d80jvLBBHJRJIj5pT0XBAA5RM1dzEo=",
+      "System.Private.CoreLib.wasm": "sha256-PHHrtG9QlB3Sw1zImf59hn5jOkeY+K9ODaZ5quzqYZc=",
       "System.Private.Uri.wasm": "sha256-/WzoM+sIIQnuTmpLR97GBUG215uFoyNd8VbfFAbavPE=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-rXNWJxdH8tME4a+ZYwP7wellel8Xp4lVPsbIQmC+ImE=",
-      "System.Runtime.wasm": "sha256-nJ5nIciqLkyZaKvlHfdp2ByZyX0gDrCV4rdNajIqPY4=",
+      "System.Runtime.wasm": "sha256-+o3IG6h3SbgTTGxOm+QOoYEnP6A5fTarb2M1DX3l7RI=",
       "System.Text.Encodings.Web.wasm": "sha256-MCv+5sGwYGikJ8D76raGF6L+02exyJcFgx2sVlUjmKk=",
       "System.Text.Json.wasm": "sha256-06a/d+2j+pqKjp9lLbyGYATd8HXETVninZtFk3HGSHE=",
       "System.Text.RegularExpressions.wasm": "sha256-8bujMNUMCuxn48zxE7AA6YYcbZJjv76LHEAtNjS6TuE="
